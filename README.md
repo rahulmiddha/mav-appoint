@@ -3,7 +3,7 @@
 
 The Academic Advising System is designed for departments across the University of Texas at Arlington to provide a friendly, effecient and user-friendly advising appointment system to assist students and advisors. The Academic Advising System helps students and the advisors to schedule advising appointments and eliminates the necessity of long queues. The system can place a new appointment, modify and delete an existing one as well as screen the synchronized calendar.
 
-###Scope###
+# Scope
 
 The scope of the project can be summarized as follows: 
 
